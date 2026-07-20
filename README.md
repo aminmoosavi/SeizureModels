@@ -1,7 +1,6 @@
 # __Seizure_Models__
 
 * ### Below are the Links to the repositories for simulation and controllability of seizure spread on patient-specific and complex networks. 
-* ### Please refer to the cited papers for more details about the models and simulations.
 
 * ### https://doi.org/10.26300/0h41-ye28
 
@@ -13,4 +12,8 @@
 
 * ### https://doi.org/10.26300/fc7z-md62
 
-   [S. Amin Moosavi, Jordan Feldman, Wilson Truccolo, "Controllability of nonlinear epileptic-seizure spreading dynamics in large-scale subject-specific brain networks", Scientific Reports 15 (1), 6467 (2025)] 
+   [S. Amin Moosavi, Jordan Feldman, Wilson Truccolo, "Controllability of nonlinear epileptic-seizure spreading dynamics in large-scale subject-specific brain networks", Scientific Reports 15 (1), 6467 (2025)]
+
+
+
+* ### Please refer to the cited papers for more details about the models and simulations.
