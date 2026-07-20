@@ -8,7 +8,7 @@
 
 * ### https://doi.org/10.26300/wcqw-9c27
 
-   [S. Amin Moosavi, Wilson Truccolo, "Criticality in probabilistic models of spreading dynamics in brain networks: epileptic seizures", PLoS Computational Biology 19(2): e1010852 (2023)] 
+   [S. Amin Moosavi, Wilson Truccolo, "Criticality in probabilistic models of spreading dynamics in brain networks: epileptic seizures", PLoS Computational Biology 19(2): e1010852 (2023)](https://doi.org/10.1371/journal.pcbi.1010852) 
 
 * ### https://doi.org/10.26300/fc7z-md62
 
