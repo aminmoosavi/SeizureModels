@@ -4,7 +4,7 @@
 
 * ### https://doi.org/10.26300/0h41-ye28
 
-    [S. Amin Moosavi, Viktor K. Jirsa, Wilson Truccolo, "Critical dynamics in the spread of focal epileptic seizures: network connectivity, neural excitability, and phase transitions", PLoS ONE 17(8): e0272902 (2022)]([https://doi.org/10.1371/journal.pone.0272902])
+    [S. Amin Moosavi, Viktor K. Jirsa, Wilson Truccolo, "Critical dynamics in the spread of focal epileptic seizures: network connectivity, neural excitability, and phase transitions", PLoS ONE 17(8): e0272902 (2022)] ([https://doi.org/10.1371/journal.pone.0272902])
 
 * ### https://doi.org/10.26300/wcqw-9c27
 
