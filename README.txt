@@ -18,7 +18,7 @@ The additional files centres.txt, average_orientations.txt, cortical.txt, are pr
 
 (b) run /code/main.m for stability analysis of the epileptor model.
 
-(c) run /code/main.ipynb for simulation of the epileptot model.
+(c) run /code/main.ipynb for simulation of the epileptor model.
 
 
 
